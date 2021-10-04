@@ -1,1 +1,2 @@
-# NV4C
+# Team Name: NV4C
+# Project name: Milky Way Exploration
